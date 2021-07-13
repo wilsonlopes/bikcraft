@@ -1,0 +1,29 @@
+/* Estilo gerais */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Header */
+
+.header {
+  width: 100%;
+  background: #fec63e;
+}
+
+.header_menu {
+  text-align: right;
+}
+.header_menu ul li {
+  display: inline-block;
+  margin-left: 20px;
+}
+.header_menu ul li a {
+  color: #000;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 14px;
+  line-height: 20px;
+}
+/* Introdução */
